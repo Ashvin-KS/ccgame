@@ -10,16 +10,16 @@
 
 ## Screenshots / Demo Previews
 ### Landing Page
-![Landing Page](./ss/landing.png)
+![Landing Page](./ss/1.png)
 
 ### Game Page
-![Game Page](./ss/game.png)
+![Game Page](./ss/2.png)
 
 ### Game Over Page
-![Game Over Page](./ss/gameover.png)
+![Game Over Page](./ss/3.png)
 
 ### Leaderboard Page
-![Leaderboard Page](./ss/leaderboard.png)
+![Leaderboard Page](./ss/4.png)
 
 ## GitHub Repository Link
 [https://github.com/Ashvin-KS/ccgame.git](https://github.com/Ashvin-KS/ccgame.git)
